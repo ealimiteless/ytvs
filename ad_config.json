@@ -4,6 +4,6 @@
   "ad_unit_interstitial": "ca-app-pub-6335103216414556/4877423748",
   "ad_unit_native": "ca-app-pub-6335103216414556/5763130002",
   "ad_unit_rewarded": "ca-app-pub-6335103216414556/2251260403",
-  "is_ads_enabled": false,
+  "is_ads_enabled": true,
   "test_stream_url": "https://cdn.tvri.go.id/live/tvrisport/index.m3u8"
 }
